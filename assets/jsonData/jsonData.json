@@ -1,0 +1,29 @@
+[
+  {
+    "category":"AMV",
+    "image": "assets/images/AMV.jpg",
+    "videos": [
+      "assets/videos/AMV1.mp4",
+      "assets/videos/AMV2.mp4",
+      "assets/videos/AMV3.mp4"
+    ]
+  },
+  {
+    "category":"Travel",
+    "image": "assets/images/Travel.jpg",
+    "videos": [
+      "assets/videos/Travel1.mp4",
+      "assets/videos/Travel2.mp4",
+      "assets/videos/Travel3.mp4"
+    ]
+  },
+  {
+    "category":"Memes",
+    "image": "assets/images/memevid.jpg",
+    "videos": [
+      "assets/videos/memevid1.mp4",
+      "assets/videos/memevid2.mp4",
+      "assets/videos/memevid3.mp4"
+    ]
+  }
+]
